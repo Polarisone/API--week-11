@@ -8,7 +8,7 @@ npm installed
 npm init to start new application
 Setup
 
-git clone git@github.com:codemify-automation/gigturbo-regression.git
+git clone git@github.com:Polarisone/API--week-11.git
 
 npm i (client) to install a specific client needed for the framework
 npm i mocha
